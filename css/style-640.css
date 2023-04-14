@@ -12,28 +12,28 @@
 
 
   .c1{
-    width: 111px;
-    transform: translate(-188px, 39px);
+    width: 120px;
+    transform: translate(-90px, -16px) rotate(-26deg);
   }
 
   .c2{
-    width: 121px;
-    transform: translate(-128px, -10px);
+    width: 118px;
+    transform: translate(-74px, -114px) rotate(-26deg);
   }
 
   .c3{
-    width: 120px;
-    transform: translate(-51px, -54px);
+    width: 170px;
+    transform: translate(-20px, -33px) rotate(-26deg);
   }
 
   .c4{
-    width: 130px;
-    transform: translate(14px, -109px);
+    width: 123px;
+    transform: translate(26px, -165px) rotate(-26deg);
   }
 
   .c5{
-    width: 118px;
-    transform: translate(88px, -152px);
+    width: 140px;
+    transform: translate(10px, -200px) rotate(-26deg);
   }
 
   .c6{
@@ -90,49 +90,49 @@
     font-size: .9rem;
   }
 
-  .t1{
-    transform: translate(-159px, 108px);
+  .t1 {
+    transform: translate(-52px, 78px);
   }
 
   .t2{
-    transform: translate(-87px, 66px);
+    transform: translate(-21px, -36px);
   }
 
-  .t3 {
-    transform: translate(11px, 11px);
+  .t3{
+    transform: translate(37px, 20px);
   }
 
   .t4{
-    transform: translate(54px, -32px);
+    transform: translate(56px, -86px);
   }
 
-  .t5 {
-    transform: translate(125px, -94px);
+  .t5{
+    transform: translate(74px, -170px);
   }
 
   .ic-therm {
-    width: 21px;
-    transform: translate(-150px, 64px);
+    width: 17px;
+    transform: translate(-43px, 37px);
   }
 
   .ic-hum{
-    width: 35px;
-    transform: translate(-85px, 19px);
+    width: 27px;
+    transform: translate(-17px, -77px);
   }
 
   .ic-ph{
-    width: 36px;
-    transform: translate(-19px, -31px) rotate(12deg);
+    width: 32px;
+    transform: translate(32px, -21px) rotate(50deg);
   }
 
   .ic-sal{
-    width: 48px;
-    transform: translate(56px, -82px);
+    width: 36px;
+    transform: translate(60px, -127px);
   }
 
   .ic-oxi{
-    width: 72px;
-    transform: translate(117px, -139px);
+    width: 54px;
+    transform: translate(75px, -204px) rotate(8deg);
   }
 
   .modal-box {
