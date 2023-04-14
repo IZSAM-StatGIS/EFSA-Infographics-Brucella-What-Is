@@ -36,56 +36,6 @@
     transform: translate(10px, -200px) rotate(-26deg);
   }
 
-  .c6{
-    width: 80px;
-    transform: translate(170px, -273px);
-  }
-
-  .c7{
-    width: 90px;
-    transform: translate(-17px, -240px);
-  }
-
-  .c8{
-    width: 55px;
-    transform: translate(-52px, -215px);
-  }
-
-  .c9{
-    width: 60px;
-    transform: translate(-148px, -106px);
-  }
-
-  .c10{
-    width: 160px;
-    transform: translate(-349px, 23px);
-  }
-
-  .c11{
-    width: 90px;
-    transform: translate(-133px, 97px);
-  }
-
-  .c12{
-    width: 90px;
-    transform: translate(5px, 56px);
-  }
-
-  .c13{
-    width: 170px;
-    transform: translate(49px, 24px);
-  }
-
-  .c14{
-    width: 125px;
-    transform: translate(153px, -47px);
-  }
-
-  .c15{
-    width: 101px;
-    transform: translate(198px, -133px);
-  }
-
   .t{
     font-size: .9rem;
   }
