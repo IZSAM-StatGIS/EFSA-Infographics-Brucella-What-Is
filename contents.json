@@ -6,17 +6,17 @@
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "<i>Brucella</i> are strictly aerobic, but certain strains require a CO2 enriched atmosphere (5 to 10%) in order to grow.",
+    "content": "<i>Brucellae</i> are strictly aerobic, but certain strains require a CO2 enriched atmosphere (5 to 10%) in order to grow.",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
     "title": "pH",
-    "content": "<i>Brucella</i> grows optimally in environments with a pH between 5.8 and 8.7.",
+    "content": "<i>Brucella</i> grows optimally in environments with a pH between 6.6 - 7.4 but can survive with a pH between 5.8 and 8.7.",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
     "title": "Water",
-    "content": "The survival of <i>Brucella</i> (abortus and melitensis) in the environment is promoted by humid conditions.",
+    "content": "The survival of <i>Brucella</i> (<i>B. abortus and B. melitensis</i>) in the environment is promoted by humid conditions.",
     "imgUrl": "images/icons/ic_hum.svg"
   },
   "salinity": {
