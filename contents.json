@@ -1,17 +1,17 @@
 {
   "temperature": {
     "title": "Temperature",
-    "content": "<i>Brucella</i> can grow at temperatures between 20 - 40°C, although its optimal temperature is 34°C.",
+    "content": "<i>Brucella</i> can survive at temperatures between 20 and 40°C. Growth takes places only under laboratory conditions, where its optimal temperature is 34°C.",
     "imgUrl": "images/icons/ic_therm.svg"
   },
   "oxygen": {
     "title": "Oxygen",
-    "content": "<i>Brucellae</i> are strictly aerobic, but certain strains require a CO2 enriched atmosphere (5 - 10%) in order to grow.",
+    "content": "<i>Brucellae</i> are strictly aerobic, but certain strains require a CO<sub>2</sub> enriched atmosphere (5 to 10%) in order to grow under laboratory conditions.",
     "imgUrl": "images/icons/ic_oxi.svg"
   },
   "ph": {
     "title": "pH",
-    "content": "<i>Brucella</i> grows optimally in environments with a pH between 6.6 - 7.4 but can survive with a pH between 5.8 - 8.7.",
+    "content": "<i>Brucella</i> can survive with a pH between 5.8 and 8.7.",
     "imgUrl": "images/icons/ic_ph.svg"
   },
   "humidity": {
@@ -21,7 +21,7 @@
   },
   "salinity": {
     "title": "Salinity",
-    "content": "<i>Brucella</i> is able to survive a salinity concentration of 4%, but its optimum is 0,4%.",
+    "content": "<i>Brucella</i> is highly vulnerable to salinity.",
     "imgUrl": "images/icons/ic_salinity.svg"
   }
 
